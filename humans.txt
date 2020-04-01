@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Colin Payne clnpn5@gmail.com @hrzman
 
 # THANKS
 
