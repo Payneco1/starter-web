@@ -1,8 +1,8 @@
 # Starter Web Project
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 As stated above, the main purpose is to get a training for basic GitHub
 ##How to be included
 
