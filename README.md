@@ -3,7 +3,7 @@
 ##Introduction
 
 ##Purpose
-
+As stated above, the main purpose is to get a training for basic GitHub
 ##How to be included
 
 This repository is for showing how Git and GitHub work
@@ -13,3 +13,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ##Deployment
+
+## ADD
